@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testsuites time="6.890" tests="27" failures="0">
+  <testsuite id="0" name="Source.TestSubmission.dll" tests="27" failures="0" time="6.890">
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_Non_Admin_User_Be_Not_Authorized_On_Route_User(userId: 3)" time="3.5920000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_Non_Admin_User_Be_Not_Authorized_On_Route_User(userId: 5)" time="0.2510000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_Non_Admin_User_Be_Not_Authorized_On_Route_User(userId: 1)" time="0.2350000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_Non_Admin_User_Be_Not_Authorized_On_Route_User(userId: 9)" time="0.1700000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_Non_Admin_User_Be_Not_Authorized_On_Route_User(userId: 7)" time="0.1280000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_Has_Authorize_Attribute_On_Controller(controller: &quot;CandidateController&quot;)" time="0.0190000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_Has_Authorize_Attribute_On_Controller(controller: &quot;AccelerationController&quot;)" time="0.0170000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_Has_Authorize_Attribute_On_Controller(controller: &quot;CompanyController&quot;)" time="0.0150000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_Has_Authorize_Attribute_On_Controller(controller: &quot;SubmissionController&quot;)" time="0.0160000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_Has_Authorize_Attribute_On_Controller(controller: &quot;UserController&quot;)" time="0.0160000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_User_Be_Authorized_On_Endpoint_With_Token(userId: 3, endpoint: &quot;/api/acceleration&quot;)" time="0.6280000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_User_Be_Authorized_On_Endpoint_With_Token(userId: 7, endpoint: &quot;/api/submission&quot;)" time="0.1440000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_User_Be_Authorized_On_Endpoint_With_Token(userId: 5, endpoint: &quot;/api/candidate&quot;)" time="0.4540000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_User_Be_Authorized_On_Endpoint_With_Token(userId: 1, endpoint: &quot;/api/company&quot;)" time="0.1450000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_Admin_Be_Authorized_On_Route_User" time="0.2820000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_Route_Be_Not_Authorized_When_Call_With_No_Token(endpoint: &quot;/api/candidate&quot;)" time="0.0540000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_Route_Be_Not_Authorized_When_Call_With_No_Token(endpoint: &quot;/api/submission&quot;)" time="0.0280000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_Route_Be_Not_Authorized_When_Call_With_No_Token(endpoint: &quot;/api/acceleration&quot;)" time="0.0290000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_Route_Be_Not_Authorized_When_Call_With_No_Token(endpoint: &quot;/api/user&quot;)" time="0.0260000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_Route_Be_Not_Authorized_When_Call_With_No_Token(endpoint: &quot;/api/company&quot;)" time="0.0290000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_Be_Generate_A_Valid_Token(userId: 1)" time="0.1040000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_Be_Generate_A_Valid_Token(userId: 7)" time="0.0890000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_Be_Generate_A_Valid_Token(userId: 5)" time="0.1070000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_Be_Generate_A_Valid_Token(userId: 10)" time="0.0890000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_Be_Generate_A_Valid_Token(userId: 3)" time="0.0900000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_Be_Generate_A_Valid_Token(userId: 9)" time="0.0900000" />
+    <testcase classname="Codenation.Challenge.AuthenticationTest" name="Codenation.Challenge.AuthenticationTest.Should_Challenge_Route_Be_Authorized_When_Call_With_No_Token" time="0.0430000" />
+  </testsuite>
+</testsuites>

@@ -1,0 +1,8 @@
+C:\Users\margo\codenation\csharp-3\Source\obj\Debug\netstandard2.0\Source.csprojAssemblyReference.cache
+C:\Users\margo\codenation\csharp-3\Source\obj\Debug\netstandard2.0\Source.AssemblyInfoInputs.cache
+C:\Users\margo\codenation\csharp-3\Source\obj\Debug\netstandard2.0\Source.AssemblyInfo.cs
+C:\Users\margo\codenation\csharp-3\Source\bin\Debug\netstandard2.0\Source.deps.json
+C:\Users\margo\codenation\csharp-3\Source\bin\Debug\netstandard2.0\Source.dll
+C:\Users\margo\codenation\csharp-3\Source\bin\Debug\netstandard2.0\Source.pdb
+C:\Users\margo\codenation\csharp-3\Source\obj\Debug\netstandard2.0\Source.dll
+C:\Users\margo\codenation\csharp-3\Source\obj\Debug\netstandard2.0\Source.pdb
